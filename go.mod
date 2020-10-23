@@ -1,3 +1,3 @@
-module github.com/theo-bash/web-scraper
+module github.com/theo-bash/fake-wget
 
 go 1.15
