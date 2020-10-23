@@ -31,9 +31,3 @@ func httpRequest(url string, filename string) error {
 	return ioutil.WriteFile(filename, byteArray, 0755)
 
 }
-
-func getMyName() string {
-
-	return "theo"
-
-}
